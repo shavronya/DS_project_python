@@ -14,8 +14,7 @@
 :arrow_up:[к оглавлению](_)
 
 ### Краткая информация о данных
-Данные с HH представлены по ссылке: https://drive.google.com/file/d/1qlaPNJyc8qHuX6Y2aaTgEgO218x3HmGW/view?usp=drive_link
-Данные о курсе валют представлены в репозитории. 
+Данные с HH представлены по ссылке: https://drive.google.com/file/d/1qlaPNJyc8qHuX6Y2aaTgEgO218x3HmGW/view?usp=drive_link. Данные о курсе валют представлены в репозитории. 
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
